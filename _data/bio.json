@@ -2,10 +2,10 @@
   "basics": {
     "name": "Mark Jones",
     "label": "Full Stack Web Developer ",
-    "picture": "https://mxj492.github.io/images/IMG_4565 (2).jpg",
+    "picture": "https://mxj492.github.io/images/IMG_4565.jpg",
     "email": "mjones492@icloud.com",
     "phone": "(323)420-7770",
-    "website": "https://mmaluhia.github.io",
+    "website": "https://mxj492.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,7 +17,7 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "mxj492",
         "url": "http://github.com/changeme"
       },
       {
